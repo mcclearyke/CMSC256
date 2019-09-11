@@ -1,5 +1,5 @@
 package cmsc256;
-//LAB 3
+
 /*
 *	Kendall McCleary:
 *	Rudy Barua:
