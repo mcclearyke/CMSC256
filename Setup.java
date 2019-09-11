@@ -29,9 +29,8 @@ public class Setup {
 	    }
 	    
 	    
-	    //.getElement() -> Access an individual element in the array
-	    //.setColor()   -> To change color
-	    int r = 0;
+	    //.getElement(#) -> Access an individual element in the array
+	    //.setColor(" ")   -> To change color
 	   
 	    arr.getElement(0).setColor("deeppink");
 	    arr.getElement(1).setColor("mediumseagreen");
