@@ -42,10 +42,12 @@ public class Setup {
 		}
 
 	   	
-	    /************************************************************
+ 	    /************************************************************
 	    Lab Bonus - Change the color of the boxes
 	    .getElement(#) -> Access an individual element in the array
-	    .setColor(" ")   -> To change color
+	    .setColor(" ") -> To change color
+	    Helpful links -> http://bridgesuncc.github.io/doc/java-api/current/html/classbridges_1_1base_1_1_array.html
+	    		     http://bridgesuncc.github.io/doc/java-api/current/html/classbridges_1_1base_1_1_element.html
 	    ************************************************************/
 	    arr.getElement(0).setColor("deeppink");
 	    arr.getElement(1).setColor("mediumseagreen");
