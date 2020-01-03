@@ -55,11 +55,11 @@ public class RecursiveMethods {
 		int secondIndex = firstIndex + 1;
 		
 		
-		if (values[firstIndex] > values[secondIndex]) {
+		//if (values[firstIndex] > values[secondIndex]) {
 			
-			return false;
+		//	return false;
 			
-		}
+		//}
 		
 		if (firstIndex < secondIndex) {
 			
